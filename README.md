@@ -8,4 +8,7 @@ tet
 
 test key use
 
+
+试试看中文
+
 make hello
